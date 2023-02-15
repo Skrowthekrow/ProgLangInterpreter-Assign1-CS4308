@@ -6,6 +6,11 @@ import java.util.ArrayList; //import the ArrayList class
 import java.util.List; //import the List class
 import java.util.Arrays; //import the Arrays class
 
+//THINGS TO DO: Generate a JSON File with list of tokens
+//              Create Subset Grammar for the language
+//              Provide I/O files and sourcecode
+//              Solve variable issue
+
 
 public class Scanner1 {
   public static void main(String[] args) {
