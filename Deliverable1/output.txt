@@ -1,0 +1,52 @@
+[32mimport is a keyword.[0m
+[32m"sysplm.h" is a string.[0m
+[32msymbol is a keyword.[0m
+[32mSERIAL_SPEED is a variable.[0m
+[32m9600 is a number.[0m
+[32msymbol is a keyword.[0m
+[32mTTL_VOLTAGE is a variable.[0m
+[32m5 is a number.[0m
+[32mfunction is a keyword.[0m
+[32msetup is a variable.[0m
+[32mfunction is a keyword.[0m
+[32mloop is a variable.[0m
+[32mis is a keyword.[0m
+[32mvariables is a variable.[0m
+[32mdefine is a keyword.[0m
+[32msensorValue is a variable.[0m
+[32mof is a keyword.[0m
+[32mtype is a keyword.[0m
+[32minteger is a keyword.[0m
+[32mdefine is a keyword.[0m
+[32mvoltage is a variable.[0m
+[32mof is a keyword.[0m
+[32mtype is a keyword.[0m
+[32mfloat is a keyword.[0m
+[32mbegin is a keyword.[0m
+[32mset is a keyword.[0m
+[32msensorValue is a repeated identifier.[0m
+[32m= is an operator.[0m
+[32manalogRead is a variable.[0m
+[32mA0 is a variable.[0m
+[32mset is a keyword.[0m
+[32mvoltage is a repeated identifier.[0m
+[32m= is an operator.[0m
+[32msensorValue is a repeated identifier.[0m
+[32m* is an operator.[0m
+[32mTTL_VOLTAGE is a repeated identifier.[0m
+[32m/ is an operator.[0m
+[32m1023.0 is a number.[0m
+[32mcall is a keyword.[0m
+[31mSerial.println is not a valid token.[0m
+[32musing is a keyword.[0m
+[32mvoltage is a repeated identifier.[0m
+[32mexit is a keyword.[0m
+[32mendfun is a keyword.[0m
+[32mloop is a repeated identifier.[0m
+[32mdefine is a keyword.[0m
+[32mA0 is a repeated identifier.[0m
+[32m= is an operator.[0m
+[32m0 is a number.[0m
+[32mof is a keyword.[0m
+[32mtype is a keyword.[0m
+[32mbyte is a keyword.[0m

@@ -1,0 +1,15 @@
+import "sysplm.h"
+symbol SERIAL_SPEED 9600
+symbol TTL_VOLTAGE 5
+function setup
+function loop is
+variables
+define sensorValue of type integer
+define voltage of type float
+begin
+set sensorValue = analogRead(A0)
+set voltage = sensorValue * (TTL_VOLTAGE / 1023.0)
+call Serial.println using voltage
+exit
+endfun loop
+define A0 = 0 of type byte
