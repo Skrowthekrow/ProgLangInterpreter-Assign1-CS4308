@@ -1,0 +1,16 @@
+// Test file for the Lexer
+
+function main is
+  variables
+    define x of type integer
+  begin
+    set x = 5
+    call display using x
+  endfun main
+
+function display is
+  parameters
+    define value of type integer
+  begin
+    call print using value
+  endfun display
