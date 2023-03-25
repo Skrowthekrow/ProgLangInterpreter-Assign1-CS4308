@@ -3,5 +3,6 @@ public enum TokenType {
     IDENTIFIER, //1
     OPERATOR, //2
     NUMBER, //3
-    UNKNOWN; //4
+    UNKNOWN, //4
+    VARIABLE;//5
 }
